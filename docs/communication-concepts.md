@@ -65,3 +65,24 @@ Computers use binary codes to represent and interpret letters, numbers and speci
 - Capital letter: A = 01000001
 - Number: 9 = 00111001
 - Special character: # = 00100011
+- 
+
+## 3 Bandwidth and Throughput
+
+### 3.1 Bandwidth
+
+Streaming a movie or playing a multiplayer game requires reliable, fast connections. To support these “high bandwidth” applications, networks have to be capable of transmitting and receiving bits at a very high rate.
+
+Different physical media support the transfer of bits at different speeds. The rate of data transfer is usually discussed in terms of bandwidth and throughput.
+
+Bandwidth is the capacity of a medium to carry data. Digital bandwidth measures the amount of data that can flow from one place to another in a given amount of time. Bandwidth is typically measured in the number of bits that (theoretically) can be sent across the media in a second. Common bandwidth measurements are as follows: 
+
+# Units of Bandwidth
+
+| Unit of Bandwidth      | Abbreviation | Equivalence                               |
+|------------------------|--------------|-------------------------------------------|
+| Bits per second        | bps          | 1 bps = fundamental unit of bandwidth     |
+| Kilobits per second    | Kbps         | 1 Kbps = 1,000 bps = 10³ bps              |
+| Megabits per second    | Mbps         | 1 Mbps = 1,000,000 bps = 10⁶ bps          |
+| Gigabits per second    | Gbps         | 1 Gbps = 1,000,000,000 bps = 10⁹ bps      |
+| Terabits per second    | Tbps         | 1 Tbps = 1,000,000,000,000 bps = 10¹² bps |
